@@ -33,5 +33,3 @@
 ### 4. Sequence: Көлікті брондау
 ![Sequence](diagrams/04-sequence.png)
 
-### 4. Sequence: Көлікті брондау
-![Sequence](docs/04-sequence.png)
