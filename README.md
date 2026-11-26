@@ -25,7 +25,12 @@
 ![Use Case](docs/diagrams/01-usecase.png)
 
 ### 2. Class
-![Class](docs/diagrams/02-class.png)
+![Class](docs/diagrams/02-class.png)### 
+3. Activity: Көлікті брондау
+![Activity](diagrams/03-activity.png)
+
+### 4. Sequence: Көлікті брондау
+![Sequence](diagrams/04-sequence.png)
 
 ### 3. Activity: Көлікті брондау
 ![Activity](docs/diagrams/03-activity.png)
