@@ -31,4 +31,4 @@
 ![Activity](docs/diagrams/03-activity.png)
 
 ### 4. Sequence: Көлікті брондау
-![Sequence](docs/diagrams/04-sequence.png)
+![Sequence](docs/04-sequence.png)
